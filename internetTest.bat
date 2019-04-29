@@ -15,7 +15,7 @@ pause >nul
 
 :alwaysConnected
 echo There was no internet issues in the first place...
-start "" https://www.youtube.com/watch?v=wZZ7oFKsKzY
+start "" https://www.youtube.com/watch?v=dQw4w9WgXcQ
 pause >nul
 
 :end
